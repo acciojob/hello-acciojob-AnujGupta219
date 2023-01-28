@@ -1,20 +1,12 @@
 
 /* Your CSS Code here. */
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-
 main{
-    width: 150px;
-    height: 150px;
-    background-color: Black;
+	width: 150px;
+	height: 150px:
+	background-color: black;
 }
-
-p{
-  color:white;
-  margin-left: 32px;
-  padding: 10px;
- 
+.hello-accio-job{
+	color: white;
+	margin-left: 32px;
+	padding: 10px;
 }
- 
